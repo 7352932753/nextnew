@@ -6,7 +6,7 @@ const nextConfig = {
         domains: ['firebasestorage.googleapis.com'],
     },
     experimental: {
-        serverActions: true,
+        serverActions: true, 
       },
 }
 
