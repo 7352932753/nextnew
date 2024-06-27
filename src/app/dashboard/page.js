@@ -202,7 +202,7 @@ export default function Home() {
                     <li className="breadcrumb-item">
                       <a href="#">Home</a>
                     </li>
-                    <li className="breadcrumb-item active">Home Page</li>
+                    <li className="breadcrumb-item active">Home Page  </li>
                   </ol>
                 </div>
               </div>
